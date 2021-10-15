@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #43609C;
+}
+
+.App-buttons {
+  text-align: right;
+  background-color: #43609C;
 }
 
 .App-logo {
@@ -19,7 +25,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: top;
   font-size: calc(10px + 2vmin);
   color: white;
 }
